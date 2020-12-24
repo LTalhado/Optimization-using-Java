@@ -1,0 +1,629 @@
+##################### 10 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 10 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 50 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 100 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 10 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 50 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 100 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 10 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 50 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 10 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 50 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 10 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 10 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 50 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 50 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 10 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+
+##################### 10 D #####################
+Number of runs: 10
+Algorithms: CMAES ISPO 
+CMAES:
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+Problems:
+benchmarks.CEC2014.f1
+benchmarks.CEC2014.f2
+benchmarks.CEC2014.f3
+benchmarks.CEC2014.f4
+benchmarks.CEC2014.f5
+benchmarks.CEC2014.f6
+benchmarks.CEC2014.f7
+benchmarks.CEC2014.f8
+benchmarks.CEC2014.f9
+benchmarks.CEC2014.f10
+benchmarks.CEC2014.f11
+benchmarks.CEC2014.f12
+benchmarks.CEC2014.f13
+benchmarks.CEC2014.f14
+benchmarks.CEC2014.f15
+benchmarks.CEC2014.f16
+benchmarks.CEC2014.f17
+benchmarks.CEC2014.f18
+benchmarks.CEC2014.f19
+benchmarks.CEC2014.f20
+benchmarks.CEC2014.f21
+benchmarks.CEC2014.f22
+benchmarks.CEC2014.f23
+benchmarks.CEC2014.f24
+benchmarks.CEC2014.f25
+benchmarks.CEC2014.f26
+benchmarks.CEC2014.f27
+benchmarks.CEC2014.f28
+benchmarks.CEC2014.f29
+benchmarks.CEC2014.f30
+

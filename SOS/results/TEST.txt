@@ -1,0 +1,947 @@
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor CMAES_11 RI_CMAES11 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+CMAES_11:
+RI_CMAES11:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(Swarm 100.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 10 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 20 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+

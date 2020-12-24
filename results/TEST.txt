@@ -1,0 +1,16 @@
+##################### 5 D #####################
+Number of runs: 100
+Algorithms: ISPO CMAES Salgor TASK3 
+ISPO:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)(p4 1.0E-5)(p5 30.0)
+CMAES:
+Salgor:(Al 0.5)
+TASK3:(p0 1.0)(p1 10.0)(p2 2.0)(p3 4.0)
+Problems:
+benchmarks.BaseFunctions.Ackley
+benchmarks.BaseFunctions.Alpine
+benchmarks.BaseFunctions.Rosenbrock
+benchmarks.BaseFunctions.Sphere
+benchmarks.BaseFunctions.Schwefel
+benchmarks.BaseFunctions.Rastigin
+benchmarks.BaseFunctions.Michalewicz
+
